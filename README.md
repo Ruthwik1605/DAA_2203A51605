@@ -10,3 +10,5 @@ Week 1 Assignment 2: https://github.com/Ruthwik1605/DAA_2203A51605/blob/main/WEE
 Week 1 Assignment 3: https://github.com/Ruthwik1605/DAA_2203A51605/blob/main/WEEK1_3_KJ_DAA_
 
 LAB Assignment 3: https://github.com/Ruthwik1605/DAA_2203A51605/blob/main/insertion%20sort
+
+Week 2 Assignment 3: https://github.com/Ruthwik1605/DAA_2203A51605/blob/main/WEEK2_3_KJ_DAA%20Ass
