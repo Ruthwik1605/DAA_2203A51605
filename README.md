@@ -14,3 +14,5 @@ LAB Assignment 3: https://github.com/Ruthwik1605/DAA_2203A51605/blob/main/insert
 Week 2 Assignment 3: https://github.com/Ruthwik1605/DAA_2203A51605/blob/main/WEEK2_3_KJ_DAA%20Ass
 
 LAB Assignment 4: https://github.com/Ruthwik1605/DAA_2203A51605/blob/main/Binary%20Search
+
+Binary search Example: https://github.com/Ruthwik1605/DAA_2203A51605/blob/main/Example%20binary%20search.c
