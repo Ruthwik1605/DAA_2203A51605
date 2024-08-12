@@ -16,3 +16,5 @@ Week 2 Assignment 3: https://github.com/Ruthwik1605/DAA_2203A51605/blob/main/WEE
 LAB Assignment 4: https://github.com/Ruthwik1605/DAA_2203A51605/blob/main/Binary%20Search
 
 Binary search Example: https://github.com/Ruthwik1605/DAA_2203A51605/blob/main/Example%20binary%20search.c
+
+Merge sort : https://github.com/Ruthwik1605/DAA_2203A51605/blob/main/Merge%20sort
